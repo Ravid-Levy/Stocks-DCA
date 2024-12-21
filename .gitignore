@@ -1,0 +1,10 @@
+# התעלמות מכל הקבצים
+*
+
+# אי התעלמות מהקבצים המוגדרים
+!requirements.txt
+!stocks-dca.py
+!README.md
+
+# אי התעלמות מהקובץ .gitignore עצמו
+!.gitignore
