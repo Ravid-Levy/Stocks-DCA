@@ -208,7 +208,7 @@ def analyze_dca_recommendation(symbol, quantity, avg_cost, stock_data):
 # ----------------------------------------------------
 def main():
     # הגדרת כותרת וחלון
-    st.set_page_config(page_title="מערכת המלצות DCA - RTL", layout="wide")
+    st.set_page_config(page_title="מערכת המלצות DCA", layout="wide")
 
     # הגדרת כיוון RTL באמצעות CSS
     st.markdown("""
