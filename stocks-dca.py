@@ -183,7 +183,7 @@ def main():
     </style>
     """, unsafe_allow_html=True)
 
-    st.title("מערכת המלצות DCA (דוגמה)")
+    st.title("מערכת המלצות DCA")
 
     symbol = st.text_input("הקלד סימבול (למשל: AAPL, TSLA וכו')", "AAPL")
     quantity = st.number_input("כמות מניות בתיק", min_value=0, value=10)
