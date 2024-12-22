@@ -1,6 +1,8 @@
 # מערכת המלצות DCA - RTL
 
 אפליקציית Streamlit שמספקת המלצות על אסטרטגיית **DCA (Dollar Cost Averaging)** בעזרת ניתוח טכני של מניות באמצעות אינדיקטורים כמו RSI, SMA, MACD ורצועות Bollinger. האפליקציה מאפשרת להזין סימבול מניה, כמות ומחיר ממוצע בתיק, ומציגה המלצות מבוססות על הנתונים והאינדיקטורים.
+<br />
+דמו - https://dca-stocks.streamlit.app/
 
 ## 📋 תכונות
 
